@@ -1,5 +1,5 @@
 # leetcode_algo
-## Generator
+## Design
 ## Dynamic Programming
 ## Depth First Search
 ## Array
