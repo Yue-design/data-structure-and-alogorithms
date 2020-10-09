@@ -4,6 +4,9 @@
 Given the root of a binary tree, return the inorder traversal of its nodes' values.
 
 preorder & postorder => from the root's point of view
+
+Time Complexity: O(n)
+Space Complexity: O(log n)
 */
 
 // build a binary tree??
